@@ -1,4 +1,4 @@
-base_url = "https://github.com/fabiomiccoli"
+base_url = "https://fabiomiccoli.github.io/ucl-economic-geography-network/"
 compile_sass = true
 build_search_index = false
 generate_feeds = false
