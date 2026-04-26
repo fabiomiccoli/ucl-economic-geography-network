@@ -1,4 +1,4 @@
-base_url = "https://aterenin.github.io/academic-workshop"
+base_url = "https://github.com/fabiomiccoli/ucl-economic-geography-network"
 compile_sass = true
 build_search_index = false
 generate_feeds = false
