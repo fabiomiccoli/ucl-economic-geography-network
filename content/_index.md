@@ -20,7 +20,8 @@ This theme is designed for hosting a scientific workshop or seminar series websi
 * Simple, straightforward, easy-to-use, and easy-to-extend programmatic interface.
 * No JavaScript or CSS dependencies of any kind, built in a way that is [designed to last](https://jeffhuang.com/designed_to_last/), even as web and browser standards change.
 
-
+* Established in February 2023, the Economic Geography Network brings together academics and PhD students across UCL.
+* Our cross-disciplinary network includes urban economists, human, urban and feminist geographers, planners, architects, urban sociologists, applied mathematicians, spatial data scientists and statistical physicists.
 
 {{ new_block() }}
 
