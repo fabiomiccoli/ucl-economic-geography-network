@@ -1,31 +1,24 @@
 +++
-title = "Academic Workshop Zola Theme"
+title = "UCL Economic Geography Network Zola Theme"
 +++
 
-# Design
+# Intro
 
-Welcome to the [Academic Workshop](https://github.com/aterenin/academic-workshop) Zola theme!
-This theme is designed for hosting a scientific workshop or seminar series website.
+Established in February 2023, the UCL Economic Geography Network brings together academics and PhD students across UCL researching broadly in the field of Economic Geography or other related disciplines bringing economics into conversation with the urban, and geography.
 
-## Features
+## On our Network
 
-* A customizable header, with support for a banner, icon, title text, subtitle, date, and link, all enabled via straightforward options in the config file.
-* Shortcodes implementing various useful features:
-    * Split the page into sections with a different background color.
-    * Create a two-dimensional image grid, for instance for displaying a list of speakers, with support for 2x3, 2x4, and other layouts, as well as automatic image resizing for both 1x and retina 2x displays.
-    * Create a list of previous seminars, complete with appropriate buttons and links.
-    * Import and autogenerate tables from external data, including with buttons for links such as paper download URLs.
-    * Create buttons pointing to other pages.
-* Easily-customizable colors by overriding `main.scss`, including dark mode via CSS variables.
-* Simple, straightforward, easy-to-use, and easy-to-extend programmatic interface.
-* No JavaScript or CSS dependencies of any kind, built in a way that is [designed to last](https://jeffhuang.com/designed_to_last/), even as web and browser standards change.
-
-* Established in February 2023, the Economic Geography Network brings together academics and PhD students across UCL.
 * Our cross-disciplinary network includes urban economists, human, urban and feminist geographers, planners, architects, urban sociologists, applied mathematicians, spatial data scientists and statistical physicists.
+* The network is hosting a series of monthly internal seminars - please check the schedule below for info on our speakers and seminar venues.
+* The informal seminars include presentations of recently completed work, work in progress and emerging research ideas.
 
 {{ new_block() }}
 
+### UCL webpage
 
+Further details on our [UCL webpage]([https://github.com/aterenin/academic-workshop](https://www.ucl.ac.uk/bartlett/events/2026/mar/economic-geography-network-seminar-series)) !
+
+{{ new_block() }}
 
 # List of Speakers
 
