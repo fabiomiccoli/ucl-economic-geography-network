@@ -31,15 +31,15 @@ This theme is designed for hosting a scientific workshop or seminar series websi
 
 {{ grid(
     text = [
-        ["Speaker A","Institution A"], 
-        ["Speaker B","Institution B"],
+        ["Dr Carolin Hulke","London School of Economics (LSE)"], 
+        ["Dr Konstantinos Melachroinos","Queen Mary University of London (QMUL)"],
         ["Speaker C","Institution C"],
         ["Speaker D","Institution D"],
         ["Speaker E","Institution E"],
     ],
     urls = [
-        "https://aterenin.github.io/academic-workshop#speaker_a",
-        "https://aterenin.github.io/academic-workshop#speaker_b",
+        "https://www.lse.ac.uk/people/carolin-hulke",
+        "https://www.qmul.ac.uk/geog/staff/academicstaff/profiles/melachroinosk.html",
         "https://aterenin.github.io/academic-workshop#speaker_c",
         "https://aterenin.github.io/academic-workshop#speaker_d",
         "https://aterenin.github.io/academic-workshop#speaker_e",
