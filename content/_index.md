@@ -50,7 +50,7 @@ Further details on our [UCL webpage]([https://github.com/aterenin/academic-works
     text = [
         ["Dr Laurie Parsons","Royal Holloway University of London (RHUL)"], 
         ["Dr Siddharth Menon","London School of Economics (LSE)"],
-        ["Zahratu Shabrina","King's College London (KCL)"],
+        ["Dr Zahratu Shabrina","King's College London (KCL)"],
     ],
     urls = [
         "https://pure.royalholloway.ac.uk/en/persons/laurie-parsons/",
