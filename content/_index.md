@@ -34,8 +34,8 @@ Further details on our [UCL webpage]([https://github.com/aterenin/academic-works
         "",
     ],
     images = [
-        "placeholder.svg",
-        "placeholder.svg",
+        "carolin-hulke-1-cropped-200x200.xedec958e.jpg.webp",
+        "melachroinos.jpg.webp",
         "placeholder.svg",
     ],
     narrow = true) }}
@@ -58,9 +58,9 @@ Further details on our [UCL webpage]([https://github.com/aterenin/academic-works
         "https://www.kcl.ac.uk/people/zahratu-shabrina",
     ],
     images = [
-        "placeholder.svg",
-        "placeholder.svg",
-        "placeholder.svg",
+        "LP_Headshot_2020.webp",
+        "siddharth-menon-200x2001.x3e2fa126.jpg.webp",
+        "zara-shabrina-profile.x91e7eb48.jpg.webp",
     ],
     narrow = true) }}
 
