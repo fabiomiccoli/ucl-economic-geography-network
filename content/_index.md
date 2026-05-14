@@ -72,10 +72,23 @@ Further details on our [UCL webpage]([https://github.com/aterenin/academic-works
 
 {{ grid(
     text = [
-        "Organizer A",
-        "Organizer B",
+        "Dr Jessica Ferm",
+        "Prof Max Nathan",
+        "Dr Hannah Schling",
+        "Fabio Miccoli",
     ],
-    image_dir = "organizers") }}
+    urls = [
+        "https://profiles.ucl.ac.uk/27402-jessica-ferm",
+        "https://profiles.ucl.ac.uk/71224-max-nathan",
+        "https://profiles.ucl.ac.uk/94680-hannah-schling",
+        "https://www.linkedin.com/in/fabio-miccoli-8409b9a7/?originalSubdomain=uk",
+    ],   
+    image_dir = [
+          "JFPicture.jpeg",
+          "MNPicture.jpeg",
+          "HSPicture.jpeg",
+          "FMPicture.jpeg",
+    ] }}
 
 
 {{ new_block() }}
