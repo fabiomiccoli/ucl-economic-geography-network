@@ -83,7 +83,7 @@ Further details on our [UCL webpage]([https://github.com/aterenin/academic-works
         "https://profiles.ucl.ac.uk/94680-hannah-schling",
         "https://www.linkedin.com/in/fabio-miccoli-8409b9a7/?originalSubdomain=uk",
     ],   
-    image_dir = [
+    images = [
           "JFPicture.jpeg",
           "MNPicture.jpeg",
           "HSPicture.jpeg",
