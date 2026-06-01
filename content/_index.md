@@ -88,7 +88,8 @@ Further details on our [UCL webpage]([https://github.com/aterenin/academic-works
           "MNPicture.jpeg",
           "HSPicture.jpeg",
           "FMPicture.jpeg",
-    ] }}
+    ],
+    narrow = true) }}
 
 
 {{ new_block() }}
