@@ -23,18 +23,15 @@ Further details on our [UCL webpage]([https://github.com/aterenin/academic-works
 # List of Speakers
 
 {{ grid(
-    text = [
-        ["Dr Carolin Hulke","London School of Economics (LSE)"], 
+    text = [ 
         ["Dr Konstantinos Melachroinos","Queen Mary University of London (QMUL)"],
         ["TBC","University College London (UCL)"],
     ],
     urls = [
-        "https://www.lse.ac.uk/people/carolin-hulke",
         "https://www.qmul.ac.uk/geog/staff/academicstaff/profiles/melachroinosk.html",
         "",
     ],
     images = [
-        "carolin-hulke-1-cropped-200x200.xedec958e.jpg.webp",
         "melachroinos.jpg.webp",
         "placeholder.svg",
     ],
@@ -51,16 +48,19 @@ Further details on our [UCL webpage]([https://github.com/aterenin/academic-works
         ["Dr Laurie Parsons","Royal Holloway University of London (RHUL)"], 
         ["Dr Siddharth Menon","London School of Economics (LSE)"],
         ["Dr Zahratu Shabrina","King's College London (KCL)"],
+        ["Dr Carolin Hulke","London School of Economics (LSE)"],
     ],
     urls = [
         "https://pure.royalholloway.ac.uk/en/persons/laurie-parsons/",
         "https://www.lse.ac.uk/people/siddharth-menon",
         "https://www.kcl.ac.uk/people/zahratu-shabrina",
+        "https://www.lse.ac.uk/people/carolin-hulke",
     ],
     images = [
         "LP_Headshot_2020.webp",
         "siddharth-menon-200x2001.x3e2fa126.jpg.webp",
         "zara-shabrina-profile.x91e7eb48.jpg.webp",
+        "carolin-hulke-1-cropped-200x200.xedec958e.jpg.webp",
     ],
     narrow = true) }}
 
