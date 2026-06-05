@@ -5,7 +5,6 @@ author = "Dr Konstantinos Melachroinos"
 institution = "Queen Mary University of London"
 author_url = "[https://aterenin.github.io/academic-workshop](https://www.qmul.ac.uk/geog/staff/academicstaff/profiles/melachroinosk.html)"
 time = "13:00 UTC"
-buttons = [{name = "Video", url = "https://aterenin.github.io/academic-workshop"}]
 +++
 
 Seminar abstract: The relationship between regional specialisation and economic performance is a contested issue. Although from a theoretical viewpoint it is often argued that specialisation improves regional competitiveness,
