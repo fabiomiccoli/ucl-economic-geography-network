@@ -5,6 +5,6 @@ sort_by = "date"
 [extra]
 +++
 
-# Example Seminars
+# Seminars
 
 {{ list(section_name = "seminars") }}
