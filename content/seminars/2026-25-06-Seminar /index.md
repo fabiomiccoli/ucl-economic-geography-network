@@ -4,6 +4,7 @@ title = "Specialisation and labour productivity performance in British regions 2
 author = "Dr Konstantinos Melachroinos"
 institution = "Queen Mary University of London"
 author_url = "[https://aterenin.github.io/academic-workshop](https://www.qmul.ac.uk/geog/staff/academicstaff/profiles/melachroinosk.html)"
+highlight = true
 time = "13:00 UTC"
 +++
 
