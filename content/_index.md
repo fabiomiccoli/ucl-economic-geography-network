@@ -1,5 +1,5 @@
 +++
-title = "UCL Economic Geography Network Zola Theme"
+title = "UCL Economic Geography Network"
 +++
 
 # Intro
