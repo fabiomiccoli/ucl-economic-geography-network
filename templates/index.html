@@ -25,7 +25,7 @@
             <h1 id="home">{% if config.extra.title.tagline %}<span class="tagline h3">{{ config.extra.title.tagline }}</span> {% endif %}{{ config.extra.title.title }}</h1>
             {% if config.extra.title.url %}</a>{% endif %}
 
-            <img alt="UCL logo" src="https://ucl-economic-geography.github.io/ucl-economic-geography-network/ucl_logo.png" width="300px" >
+            <img src="{{ get_url(path='ucl_logo.png') }}" alt="UCL logo" style="display: block; margin: 1rem auto; max-width: 300px; width: 100%; height: auto;">
 
             {% if config.extra.title.subtitles %}
                 {% for subtitle in config.extra.title.subtitles %}
